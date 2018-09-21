@@ -114,5 +114,3 @@ https://drive.google.com/drive/folders/1C0A53qqQpdGyKIEB7HVb6BqlBD5gvEJy?usp=sha
 7. run.py
 8. tf_seq2seq_model.py
 ```
-
-# conditional_seqGAN_Tensorflow
