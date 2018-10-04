@@ -1,6 +1,6 @@
 # Daisy
 ## Dialog Analogous Intellectual System
-**conditional sequence generative adversarial network trained with policy gradient** 
+**conditional sequence generative adversarial network trained with policy gradient, Implementation in Tensorflow** 
 ![](https://github.com/b03901170/machine-learning/blob/master/conditional%20seqGAN/image/framework.png)
 
 ## Requirements: 
